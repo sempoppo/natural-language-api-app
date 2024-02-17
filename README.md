@@ -1,2 +1,2 @@
 # natural-language-api-app
-GCPのNatural Language apiを使ってみる
+GCPのNatural Language apiを使ってみるプログラムです。
